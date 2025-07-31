@@ -107,8 +107,8 @@ EmployeeID,Name,Department,Salary
 
 ## 🙋‍♀️ Author
 
-**Megadharshini Sivakumar**\
-Azure Project | Final Year IT Student
+**Meganraj S**
+Azure Project
 
 ---
 
